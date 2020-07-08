@@ -1,0 +1,1 @@
+cd doodle/cheers2019 && docker build -t ltalpha/cheers2019 .
